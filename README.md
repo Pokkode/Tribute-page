@@ -1,2 +1,2 @@
 # Tribute-page
-A fictional biography
+An overview of one's life history.
