@@ -1,10 +1,10 @@
 # Tribute-page
 An overview of one's life history.
 
-# objective:
+## objective:
 To build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
 
-# Tech Stack
+## Tech Stack
 
 **Client:** HTML, CSS
 
@@ -13,3 +13,7 @@ To build an app that is functionally similar to https://tribute-page.freecodecam
 ## Screenshots
 
 ![App Screenshot](https://i.postimg.cc/B6Nkk5mw/IMG-20220809-053048.jpg)
+
+## Demo
+
+https://pokkode.github.io/Tribute-page/
