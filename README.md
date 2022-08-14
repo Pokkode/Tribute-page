@@ -17,3 +17,7 @@ To build an app that is functionally similar to https://tribute-page.freecodecam
 ## Demo
 
 https://pokkode.github.io/Tribute-page/
+
+# Authors
+
+- [@Princewill Kalu Orie](https://www.github.com/pokkode)
