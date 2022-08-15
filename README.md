@@ -21,3 +21,8 @@ https://pokkode.github.io/Tribute-page/
 # Authors
 
 - [@Princewill Kalu Orie](https://www.github.com/pokkode)
+
+## Features
+
+- mobile responsive 
+
