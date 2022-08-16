@@ -26,3 +26,6 @@ https://pokkode.github.io/Tribute-page/
 
 - mobile responsive 
 
+## skills
+
+HTML, CSS
